@@ -23,7 +23,7 @@ wnmp用于简化windows平台上的php开发环境安装。
 
 3.访问上述表格中的安装包下载链接地址，下载 php、nginx、mysql 的 zip 包，并分别解压到本项目中php、nginx、mysql三个文件夹,解压完成后的文件夹结构如下图所示。
 
-![图片](https://youpin.coding.net/api/project/17764/files/162937/imagePreview)
+![图片](https://github.com/polarbird/wnmp/blob/master/resource/fc955a70-6e22-11e8-81cd-27cee32a117f.jpg?raw=true)
 
 4.将resource文件夹中的文件分别复制到下列所述文件夹的对应位置。
 
@@ -75,7 +75,7 @@ wnmp用于简化windows平台上的php开发环境安装。
 >说明：截图中没有mysql的相关信息，是因为我修改了本机的start_server.bat和stop_server.bat文件，删除了其中启动mysql和关闭mysql的代码。
 >
 
-![图片](https://youpin.coding.net/api/project/17764/files/162941/imagePreview)
+![图片](https://github.com/polarbird/wnmp/blob/master/resource/cade30f0-6e23-11e8-b836-7196cc07eb35.jpg?raw=true)
 
 ### 使用说明
 
