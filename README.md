@@ -2,14 +2,15 @@ wnmp用于简化windows平台上的php开发环境安装。
 
 注意：本文档内容不包括Git的安装和使用。
 
-###软件版本
+### 软件版本
+
  序号 | 名称 | 版本号 | 安装包名称 | 安装包下载链接地址
- :----: | :----: | :----: | :----: | :---- 
+ ---- | ---- | ---- | ---- | ---- 
  1      | PHP    | 7.3.8  | php-7.3.8-nts-Win32-VC15-x64.zip  | https://windows.php.net/downloads/releases/php-7.3.8-nts-Win32-VC15-x64.zip
  2      | Nginx  | 1.16.1 | nginx-1.16.1.zip                  | http://nginx.org/download/nginx-1.16.1.zip
  3      | MySQL  | 5.7.27 | mysql-5.7.27-winx64.zip           | https://dev.mysql.com/get/Downloads/MySQL-5.7/mysql-5.7.27-winx64.zip
 
-###安装说明
+### 安装说明
 
 1.在命令行窗口输入以下命令 clone 本项目到 C:\。
 >
@@ -25,8 +26,9 @@ wnmp用于简化windows平台上的php开发环境安装。
 ![图片](https://youpin.coding.net/api/project/17764/files/162937/imagePreview)
 
 4.将resource文件夹中的文件分别复制到下列所述文件夹的对应位置。
+
  序号 | 名称 | 路径
- :----: | :----: | :----
+ ---- | ---- | ----
  1      | verify                                   | C:\wnmp\php\verify
  2      | php.ini                                  | C:\wnmp\php\php.ini
  3      | php_pdo_sqlsrv_73_nts_x64.dll            | C:\wnmp\php\ext\php_pdo_sqlsrv_73_nts_x64.dll
@@ -75,7 +77,7 @@ wnmp用于简化windows平台上的php开发环境安装。
 
 ![图片](https://youpin.coding.net/api/project/17764/files/162941/imagePreview)
 
-###使用说明
+### 使用说明
 
 1.执行以下命令启动服务器。
 >
