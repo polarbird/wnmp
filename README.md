@@ -53,7 +53,7 @@ wnmp用于简化windows平台上的php开发环境安装。
 
 6.配置系统PHP环境变量
 >
->在系统环境变量PATH中加入;C:\wnmp\php
+>在系统环境变量PATH中加入;d
 >
 >在任意命令行中输入php -v 验证php安装成功
 >
